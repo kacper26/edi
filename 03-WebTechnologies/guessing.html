@@ -9,11 +9,16 @@
 
 		<script>
 			// read user's number (popup window)
+			var un = prompt('podaj liczbe')
 			
 			// create a random number
-			
+			var r = Math.round(Math.random() * 5);
 			// compare the numbers
-			
+			if(un == r){
+			  alert('dziala')
+			}else{
+				alert('nie dziala')
+			}	
 			// show results (popup window)
 			
 		</script>
