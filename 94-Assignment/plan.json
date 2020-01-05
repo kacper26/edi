@@ -1,0 +1,775 @@
+{
+  "dane-o-kolokwiach": [
+    {
+      "przedmiot": "Język obcy 1.1",
+      "kolokwia": [
+        { "data": "2020-01-10", "tematyka": "Unit 2" },
+        { "data": "2019-11-15", "tematyka": "Unit 1" }
+      ]
+    },
+    {
+      "przedmiot": "Pracownia programowania I",
+      "kolokwia": [
+        { "data": "2020-02-01", "tematyka": "Moduł 1-10 Praktyka" },
+        { "data": "2020-02-01", "tematyka": "Moduł 1-10 Teoria" }
+      ]
+    },
+    {
+      "przedmiot": "Wprowadzenie do matematyki",
+      "kolokwia": [
+        { "data": "2019-11-30", "tematyka": "Granice ciągów i funkcji, własności funkcji" },
+        { "data": "2020-01-17", "tematyka": "Pochodne, własności pochodnych" }
+      ]
+    },
+    {
+      "przedmiot": "Organizacja i zarządzanie",
+      "kolokwia": [
+        { "data": "2020-01-31", "tematyka": "Podstawy organizacji" },
+        { "data": "2020-01-31", "tematyka": "Podstawy zarządzania" }
+      ]
+    }
+  ],
+
+  "plan": [
+    {
+      "termin": "2019-10-05",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "10:30 (2g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-10-05",
+      "dzien": "Sb",
+      "od-godz": "10:30",
+      "do-godz": "13:00 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-892",
+        "#text": "dr hab. inż. Janusz Morajda"
+      },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-10-11",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Bibl. 441"
+    },
+    {
+      "termin": "2019-10-11",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-10-12",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Elektroniczna wymiana danych",
+      "nazwa-ang": "Electronic data exchange",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-443",
+        "#text": "dr hab. Grażyna Paliwoda-Pękosz"
+      },
+      "sala": "Paw.D sala 3"
+    },
+    {
+      "termin": "2019-10-12",
+      "dzien": "Sb",
+      "od-godz": "11:30",
+      "do-godz": "14:00 (3g.)",
+      "przedmiot": "Elektroniczna wymiana danych",
+      "nazwa-ang": "Electronic data exchange",
+      "typ": "ćwiczenia",
+      "nauczyciel": {
+        "-moodle": "-443",
+        "#text": "dr hab. Grażyna Paliwoda-Pękosz"
+      },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-10-18",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Pracownia programowania I",
+      "nazwa-ang": "Programming",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-218", "#text": "dr Janusz Stal" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-10-19",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "12:15 (4g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-10-19",
+      "dzien": "Sb",
+      "od-godz": "12:15",
+      "do-godz": "14:00 (2g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.F 102"
+    },
+    {
+      "termin": "2019-10-19",
+      "dzien": "Sb",
+      "od-godz": "14:00",
+      "do-godz": "16:30 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-10-20",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-10-20",
+      "dzien": "Nd",
+      "od-godz": "11:30",
+      "do-godz": "14:00 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Paw.D sala 3"
+    },
+    {
+      "termin": "2019-10-25",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.C sala D"
+    },
+    {
+      "termin": "2019-10-25",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-10-26",
+      "dzien": "Sb",
+      "od-godz": "09:45",
+      "do-godz": "12:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-1043", "#text": "mgr Katarzyna Wójcik" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-10-27",
+      "dzien": "Nd",
+      "od-godz": "13:15",
+      "do-godz": "16:30 (4g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.D sala 5"
+    },
+    {
+      "termin": "2019-11-08",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Bibl. 441"
+    },
+    {
+      "termin": "2019-11-08",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-11-09",
+      "dzien": "Sb",
+      "od-godz": "08:00",
+      "do-godz": "11:15 (4g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "Przeniesienie zajęć",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "uwagi": "Na godzinę 8:45"
+    },
+    {
+      "termin": "2019-11-09",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.F 102"
+    },
+    {
+      "termin": "2019-11-09",
+      "dzien": "Sb",
+      "od-godz": "14:00",
+      "do-godz": "16:30 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Paw.A 013 lab. Win10, Office16"
+    },
+    {
+      "termin": "2019-11-10",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-11-10",
+      "dzien": "Nd",
+      "od-godz": "11:30",
+      "do-godz": "14:00 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.F 104"
+    },
+    {
+      "termin": "2019-11-15",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.F 104"
+    },
+    {
+      "termin": "2019-11-15",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-11-16",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "12:15 (4g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-11-16",
+      "dzien": "Sb",
+      "od-godz": "12:15",
+      "do-godz": "14:00 (2g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Bibl. 441"
+    },
+    {
+      "termin": "2019-11-16",
+      "dzien": "Sb",
+      "od-godz": "14:00",
+      "do-godz": "16:30 (3g.)",
+      "przedmiot": "Pracownia programowania I",
+      "nazwa-ang": "Programming",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-218", "#text": "dr Janusz Stal" },
+      "sala": "Paw.A 121 lab. Win10, Office16"
+    },
+    {
+      "termin": "2019-11-17",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-892",
+        "#text": "dr hab. inż. Janusz Morajda"
+      },
+      "sala": "Paw.D sala 3"
+    },
+    {
+      "termin": "2019-11-17",
+      "dzien": "Nd",
+      "od-godz": "12:15",
+      "do-godz": "14:45 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-1043", "#text": "mgr Katarzyna Wójcik" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-11-29",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-11-29",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-11-30",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "12:15 (4g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.F 102"
+    },
+    {
+      "termin": "2019-11-30",
+      "dzien": "Sb",
+      "od-godz": "12:15",
+      "do-godz": "14:45 (3g.)",
+      "przedmiot": "Elektroniczna wymiana danych",
+      "nazwa-ang": "Electronic data exchange",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-443",
+        "#text": "dr hab. Grażyna Paliwoda-Pękosz"
+      },
+      "sala": "Paw.D sala 3"
+    },
+    {
+      "termin": "2019-11-30",
+      "dzien": "Sb",
+      "od-godz": "15:00",
+      "do-godz": "17:30 (3g.)",
+      "przedmiot": "Elektroniczna wymiana danych",
+      "nazwa-ang": "Electronic data exchange",
+      "typ": "ćwiczenia",
+      "nauczyciel": {
+        "-moodle": "-443",
+        "#text": "dr hab. Grażyna Paliwoda-Pękosz"
+      },
+      "sala": "Paw.A 117 lab. Win10, Office16"
+    },
+    {
+      "termin": "2019-12-01",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-1043", "#text": "mgr Katarzyna Wójcik" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-12-13",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-892",
+        "#text": "dr hab. inż. Janusz Morajda"
+      },
+      "sala": "Paw.D sala 3"
+    },
+    {
+      "termin": "2019-12-13",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-12-14",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.S sala 7"
+    },
+    {
+      "termin": "2019-12-14",
+      "dzien": "Sb",
+      "od-godz": "11:30",
+      "do-godz": "14:00 (3g.)",
+      "przedmiot": "Pracownia programowania I",
+      "nazwa-ang": "Programming",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-218", "#text": "dr Janusz Stal" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-12-14",
+      "dzien": "Sb",
+      "od-godz": "16:45",
+      "do-godz": "19:15 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Paw.D sala 3"
+    },
+    {
+      "termin": "2019-12-15",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "12:15 (4g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.G 2"
+    },
+    {
+      "termin": "2019-12-15",
+      "dzien": "Nd",
+      "od-godz": "12:15",
+      "do-godz": "14:45 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "Przeniesienie zajęć",
+      "nauczyciel": {
+        "-moodle": "-892",
+        "#text": "dr hab. inż. Janusz Morajda"
+      },
+      "uwagi": "Na 10.01"
+    },
+    {
+      "termin": "2019-12-20",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2019-12-21",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "12:15 (4g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.F 102"
+    },
+    {
+      "termin": "2019-12-21",
+      "dzien": "Sb",
+      "od-godz": "12:15",
+      "do-godz": "14:45 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-1043", "#text": "mgr Katarzyna Wójcik" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2019-12-22",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Paw.G 2"
+    },
+    {
+      "termin": "2019-12-22",
+      "dzien": "Nd",
+      "od-godz": "12:15",
+      "do-godz": "15:45 (4g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Bibl. 441"
+    },
+    {
+      "termin": "2020-01-10",
+      "dzien": "Pt",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-892",
+        "#text": "dr hab. inż. Janusz Morajda"
+      },
+      "sala": "Paw.C sala E"
+    },
+    {
+      "termin": "2020-01-10",
+      "dzien": "Pt",
+      "od-godz": "16:45",
+      "do-godz": "18:15 (2g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "Przeniesienie zajęć",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "uwagi": "na 11.01"
+    },
+    {
+      "termin": "2020-01-10",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2020-01-11",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "12:15 (4g.)",
+      "przedmiot": "Pracownia programowania I",
+      "nazwa-ang": "Programming",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-218", "#text": "dr Janusz Stal" },
+      "sala": "Paw.A 116 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2020-01-11",
+      "dzien": "Sb",
+      "od-godz": "12:15",
+      "do-godz": "14:45 (3g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Bud.gł. Stara Aula"
+    },
+    {
+      "termin": "2020-01-11",
+      "dzien": "Sb",
+      "od-godz": "15:45",
+      "do-godz": "17:30 (2g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "wykład",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.D sala 5"
+    },
+    {
+      "termin": "2020-01-12",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-1043", "#text": "mgr Katarzyna Wójcik" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2020-01-17",
+      "dzien": "Pt",
+      "od-godz": "17:30",
+      "do-godz": "18:15 (1g.)",
+      "przedmiot": "Wprowadzenie do matematyki",
+      "nazwa-ang": "Introduction to mathematics",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.F 106"
+    },
+    {
+      "termin": "2020-01-17",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2020-01-19",
+      "dzien": "Nd",
+      "od-godz": "08:45",
+      "do-godz": "11:15 (3g.)",
+      "przedmiot": "Elektroniczna wymiana danych",
+      "nazwa-ang": "Electronic data exchange",
+      "typ": "wykład",
+      "nauczyciel": {
+        "-moodle": "-443",
+        "#text": "dr hab. Grażyna Paliwoda-Pękosz"
+      },
+      "sala": "Paw.C sala D"
+    },
+    {
+      "termin": "2020-01-19",
+      "dzien": "Nd",
+      "od-godz": "11:30",
+      "do-godz": "14:00 (3g.)",
+      "przedmiot": "Elektroniczna wymiana danych",
+      "nazwa-ang": "Electronic data exchange",
+      "typ": "ćwiczenia",
+      "nauczyciel": {
+        "-moodle": "-443",
+        "#text": "dr hab. Grażyna Paliwoda-Pękosz"
+      },
+      "sala": "Paw.A 117 lab. Win10, Office16"
+    },
+    {
+      "termin": "2020-01-31",
+      "dzien": "Pt",
+      "od-godz": "16:45",
+      "do-godz": "18:15 (2g.)",
+      "przedmiot": "Organizacja i zarządzanie",
+      "nazwa-ang": "Organization and management",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-938", "#text": "dr Krzysztof Woźniak" },
+      "sala": "Bibl. 441"
+    },
+    {
+      "termin": "2020-01-31",
+      "dzien": "Pt",
+      "od-godz": "18:30",
+      "do-godz": "21:00 (3g.)",
+      "przedmiot": "Język obcy 1.1",
+      "nazwa-ang": "foreign language",
+      "typ": "lektorat"
+    },
+    {
+      "termin": "2020-02-01",
+      "dzien": "Sb",
+      "od-godz": "08:45",
+      "do-godz": "13:00 (5g.)",
+      "przedmiot": "Pracownia programowania I",
+      "nazwa-ang": "Programming",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-218", "#text": "dr Janusz Stal" },
+      "sala": "Paw.A 116 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2020-02-01",
+      "dzien": "Sb",
+      "od-godz": "13:15",
+      "do-godz": "15:45 (3g.)",
+      "przedmiot": "Architektura systemów komputerowych",
+      "nazwa-ang": "Architecture of computer systems",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-891", "#text": "dr Jan Madej" },
+      "sala": "Paw.A 09 lab. Win8.1, Office16"
+    },
+    {
+      "termin": "2020-02-01",
+      "dzien": "Sb",
+      "od-godz": "15:45",
+      "do-godz": "18:15 (3g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "ćwiczenia",
+      "nauczyciel": { "-moodle": "-1043", "#text": "mgr Katarzyna Wójcik" },
+      "sala": "Paw.A 115 lab.Win8.1, Office16"
+    },
+    {
+      "termin": "2020-02-15",
+      "dzien": "Sb",
+      "od-godz": "13:15",
+      "do-godz": "15:45 (3g.)",
+      "typ": "egzamin",
+      "nauczyciel": { "-moodle": "-508", "#text": "dr Krzysztof Guzik" },
+      "sala": "Paw.S sala 9"
+    },
+    {
+      "termin": "2020-02-15",
+      "dzien": "Sb",
+      "od-godz": "16:45",
+      "do-godz": "18:15 (2g.)",
+      "przedmiot": "Teoretyczne podstawy informatyki",
+      "nazwa-ang": "Theoretical foundations of computer science",
+      "typ": "egzamin",
+      "nauczyciel": {
+        "-moodle": "-892",
+        "#text": "dr hab. inż. Janusz Morajda"
+      },
+      "sala": "Paw.C Nowa Aula"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+body
+{
+  background-color: #0f3d3f;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header
+{
+  background-color: #6ba8a9;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+#dane
+{
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(0, 42, 97);
+  background-color: #e5dfdf;
+  padding: 20px;
+  border-radius: 10px 30px 10px 30px;
+}
+
+#dane td:nth-child(1)
+{
+  text-align: right;
+  font-weight: bold;
+}
+
+#dane td:nth-child(2)
+{
+  text-align: left;
+  padding-left: 10px;
+}
+
+main
+{
+  background-color: #357376;
+  padding: 10px;
+}
+
+main > table
+{
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+main td
+{
+  padding: 8px;
+  text-align: center;
+}
+
+main tr:nth-child(2n + 1)
+{
+  background-color: #6ba8a9;
+}
+
+main tr:nth-child(2n)
+{
+  background-color: #92c6c7;
+}
+
+.kolokwium
+{
+  background-color: rgb(255, 74, 74) !important;
+}
+
+#temat
+{
+  position: fixed;
+  top: 10px;
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 30vw;
+  height: 10vh;
+  padding: 5px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 25px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+  transition: visibility 0.15s linear, opacity 0.15s linear;
+}
